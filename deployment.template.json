@@ -12,7 +12,7 @@
               "YourACR": {
                 "username": "${ACR_USER}",
                 "password": "${ACR_PASS}",
-                "address": "${ACR_SERVER}"
+                "address": "${DEVOPS_IOTEDGE_REGISTRY_URL}"
               }
             }
           }
